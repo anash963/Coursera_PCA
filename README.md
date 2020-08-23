@@ -14,7 +14,7 @@ https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-cours
 
 https://github.com/ranasingh-gkp/PCA-TSNE-on-MNIST-dataset/blob/master/14_15_16(PCA%2CT_SNE).ipynb
 
-#Some points regarding PCA:
+# Some points regarding PCA:
 
  It is not necessary to have a target variable for applying dimensionality reduction algorithms.
  
@@ -42,7 +42,7 @@ PCA maximize the variance of the data
 
 When all eigenvectors are the same, in such a case you won’t be able to select the principal components because in that case all principal components are equal and PCA would perform badly.
 
-#PCA works better if there is:
+# PCA works better if there is:
 
 A linear structure in the data
 
@@ -50,7 +50,7 @@ If the data lies on a curved surface and not on a flat surface
 
 If variables are scaled in the same unit
 
-#When you get features in lower dimensions using PCA:
+# When you get features in lower dimensions using PCA:
 
 The features will lose interpretability
 
@@ -60,7 +60,7 @@ You don’t need to initialize parameters in PCA
 
 PCA can’t be trapped into local minima problem
 
-#Limitations:
+# Limitations:
 - PCA is not scale invariant
 
 - The directions with largest variance are assumed to be of most interest
