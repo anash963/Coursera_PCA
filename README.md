@@ -1,5 +1,7 @@
 # PCA references and links:
 
+https://github.com/launchcode01dl/mathematics-for-machine-learning-cousera/tree/master/course3%20-%20principle%20component%20analysis
+
 https://www.youtube.com/watch?v=GyyrnOHwe2E
 
 https://www.youtube.com/watch?v=4KuF5HRAQn8&t=983s
