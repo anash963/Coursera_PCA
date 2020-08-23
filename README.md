@@ -1,4 +1,4 @@
-# PCA eferences and links:
+# PCA references and links:
 
 https://www.youtube.com/watch?v=GyyrnOHwe2E
 
