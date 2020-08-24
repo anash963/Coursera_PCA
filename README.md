@@ -20,6 +20,8 @@ https://github.com/ranasingh-gkp/PCA-TSNE-on-MNIST-dataset/blob/master/14_15_16(
 
 https://sebastianraschka.com/Articles/2014_pca_step_by_step.html
 
+
+
 # Some points regarding PCA:
 
  It is not necessary to have a target variable for applying dimensionality reduction algorithms.
