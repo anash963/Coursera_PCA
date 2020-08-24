@@ -18,6 +18,8 @@ https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-cours
 
 https://github.com/ranasingh-gkp/PCA-TSNE-on-MNIST-dataset/blob/master/14_15_16(PCA%2CT_SNE).ipynb
 
+https://sebastianraschka.com/Articles/2014_pca_step_by_step.html
+
 # Some points regarding PCA:
 
  It is not necessary to have a target variable for applying dimensionality reduction algorithms.
