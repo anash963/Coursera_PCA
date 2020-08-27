@@ -81,4 +81,27 @@ PCA can’t be trapped into local minima problem
 
 - If the variables are correlated, PCA can achieve dimension reduction. If not, PCA just orders them according to their variances
 
+## Matrix/PCA tutorials
+
+https://www.randomservices.org/random/expect/Matrices.html
+https://medium.com/data-science-365/statistical-and-mathematical-concepts-behind-pca-a2cb25940cd4
+https://byjus.com/jee/types-of-matrices/
+https://ncert.nic.in/ncerts/l/leep203.pdf
+http://emathlab.com/Algebra/Matrices/Matrix2Help.php#:~:text=The%20determinant%20is%20equal%20to%20the%20sum%20of,-1%20%3D%20%5B1%2F5%5D%20and%20%5B5%5D%E2%80%A2%20%5B1%2F5%5D%20%3D%20%5B1%5D.
+https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf
+http://www.stat.columbia.edu/~fwood/Teaching/w4315/Fall2009/lecture_11
+https://www.easycalculation.com/statistics/learn-correlation-matrix.php
+http://users.stat.umn.edu/~helwig/notes/datamat-Notes.pdf
+https://stattrek.com/matrix-algebra/covariance-matrix.aspx#:~:text=Variance-Covariance%20Matrix%201%20Variance.%20Variance%20is%20a%20measure,Suppose%20X%20is%20an%20n%20x%20k%20
+https://en.wikipedia.org/wiki/Variance
+http://statpower.net/Content/312/Lecture%20Slides/MatrixStat.pdf
+https://www.youtube.com/watch?v=jQy5ovIG5Wk
+https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices
+https://datascienceplus.com/understanding-the-covariance-matrix/
+https://www.surveygizmo.com/resources/blog/variance-covariance-correlation/
+https://towardsdatascience.com/let-us-understand-the-correlation-matrix-and-covariance-matrix-d42e6b643c22
+https://en.wikipedia.org/wiki/Covariance_matrix
+https://www.sharetechnote.com/html/Handbook_EngMath_Matrix_InnerProduct.html
+https://colah.github.io/posts/2014-10-Visualizing-MNIST/#:~:text=MNIST%20is%20a%20simple%20computer%20vision%20dataset.%20It,example%2C%20we%20might%20think%20of%20as%20something%20like%3A
+
 
