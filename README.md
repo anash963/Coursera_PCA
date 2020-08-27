@@ -22,6 +22,8 @@ https://sebastianraschka.com/Articles/2014_pca_step_by_step.html
 
 https://www.analyticsvidhya.com/blog/2017/03/questions-dimensionality-reduction-data-scientist/
 
+https://mathworld.wolfram.com/OrthogonalTransformation.html
+
 # Some points regarding PCA:
 
  It is not necessary to have a target variable for applying dimensionality reduction algorithms.
