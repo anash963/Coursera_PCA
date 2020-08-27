@@ -20,7 +20,7 @@ https://github.com/ranasingh-gkp/PCA-TSNE-on-MNIST-dataset/blob/master/14_15_16(
 
 https://sebastianraschka.com/Articles/2014_pca_step_by_step.html
 
-
+https://www.analyticsvidhya.com/blog/2017/03/questions-dimensionality-reduction-data-scientist/
 
 # Some points regarding PCA:
 
