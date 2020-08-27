@@ -24,6 +24,8 @@ https://www.analyticsvidhya.com/blog/2017/03/questions-dimensionality-reduction-
 
 https://mathworld.wolfram.com/OrthogonalTransformation.html
 
+https://colah.github.io/posts/2014-10-Visualizing-MNIST/#:~:text=MNIST%20is%20a%20simple%20computer%20vision%20dataset.%20It,example%2C%20we%20might%20think%20of%20as%20something%20like%3A
+
 # Some points regarding PCA:
 
  It is not necessary to have a target variable for applying dimensionality reduction algorithms.
@@ -81,7 +83,7 @@ PCA can’t be trapped into local minima problem
 
 - If the variables are correlated, PCA can achieve dimension reduction. If not, PCA just orders them according to their variances
 
-## Matrix/PCA tutorials
+## Matrices
 
 https://www.randomservices.org/random/expect/Matrices.html
 
@@ -120,7 +122,5 @@ https://towardsdatascience.com/let-us-understand-the-correlation-matrix-and-cova
 https://en.wikipedia.org/wiki/Covariance_matrix
 
 https://www.sharetechnote.com/html/Handbook_EngMath_Matrix_InnerProduct.html
-
-https://colah.github.io/posts/2014-10-Visualizing-MNIST/#:~:text=MNIST%20is%20a%20simple%20computer%20vision%20dataset.%20It,example%2C%20we%20might%20think%20of%20as%20something%20like%3A
 
 
